@@ -15,3 +15,9 @@ $ telnet localhost 4444
 
 example blink led : http://stackoverflow.com/questions/29496072/stm32f401re-nucleo-led-and-buttons-example
 
+======
+
+Other toolchain and startup guide 
+
+https://github.com/zmoshansky/stm32f4_getting_started/blob/master/docs/setup.md
+
